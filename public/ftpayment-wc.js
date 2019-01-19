@@ -9,7 +9,7 @@ class FTPaymentDashboard extends HTMLElement {
                     color: red;
                 }
             </style>
-            <p>FTPayments v102!</p>
+            <p>FTPayments v1020!</p>
     `;
   }
 }
